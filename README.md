@@ -1,27 +1,34 @@
-🎭 Musée de l'Illusion Paris — Projet SAE
-Projet réalisé en BUT Informatique. Conception d'une expérience digitale immersive pour le Musée de l'Illusion de Paris, incluant la scénarisation de l'événement futuriste : Le Grand Bal des Illusions 2027.
+# Musée de l'Illusion Paris
 
-💻 Développement Technique
-Responsable de l'intégralité du développement Front-End :
+Projet SAE réalisé en BUT Informatique 1ère année.
 
-Architecture : SPA interactive développée avec React (Vite).
+Site web conçu autour d'un événement fictif organisé au Musée de l'Illusion de Paris : **Le Grand Bal des Illusions 2027**. L'objectif était de concevoir une expérience digitale immersive autour de cet événement futuriste.
 
-UI/UX : Design premium (Gold & Dark) réalisé via Tailwind CSS.
+---
 
-Animations : Système de particules, rayons de lumière dynamiques et Intersection Observer pour les transitions.
+## Ce que j'ai fait
 
-Interactif : Slider sur-mesure (souris/tactile) et intégration de composants SVG complexes.
+J'ai pris en charge tout le développement front-end du projet :
 
-Multilingue (i18n) : Gestion FR/EN via React Context API avec persistance via localStorage.
+- **React + Vite** — architecture SPA
+- **Tailwind CSS** — design Gold & Dark
+- **Animations** — particules, rayons de lumière, transitions via Intersection Observer
+- **Slider custom** — fonctionne à la souris et au tactile
+- **i18n FR/EN** — gestion multilingue via Context API
 
-🛠️ Stack Technique
-Framework : React.js
+## Stack
 
-Styles : Tailwind CSS
+- React.js
+- Tailwind CSS
+- React Router
+- Context API
 
-Navigation : React Router
+## L'équipe
 
-État : Context API
-
-👥 L'Équipe
-Maryam (Chef de projet) • Noham (Concept 2027) • Noha (Graphiste) • Mélissa & Ilias (Design & Technique) • Lionel (Traduction)
+| Membre | Rôle |
+|---|---|
+| Maryam | Chef de projet |
+| Noham | Concept 2027 |
+| Noha | Graphiste |
+| Mélissa & Ilias | Design & Développement |
+| Lionel | Traduction |
